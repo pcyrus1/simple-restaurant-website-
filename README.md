@@ -1,1 +1,1 @@
-# simple-restaurant-website-
+Simple Restaurant website made with html and javascript
